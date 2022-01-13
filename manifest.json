@@ -1,11 +1,11 @@
 {
-    "name": "Science 71: Payment",
-    "short_name": "Science 71: Payment",
+    "name": "payment_receipt",
+    "short_name": "payment_receipt",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Science 71 Payment Page",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
